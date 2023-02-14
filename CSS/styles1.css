@@ -1,0 +1,84 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #F2F2F2;
+    padding: 20px;
+}
+
+.name {
+    font-size: 28px;
+    margin: 0;
+    line-height: 0.5;
+}
+
+header h2 {
+    font-size: 18px;
+    margin: 0;
+}
+
+header img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+main {
+    padding: 20px;
+}
+
+.section-header {
+    font-size: 22px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+section ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+section li {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+section a {
+    color: #0077B5;
+    text-decoration: none;
+}
+
+footer {
+    background-color: #F2F2F2;
+    text-align: center;
+    padding: 20px;
+    font-size: 14px;
+}
+
+
+.summary {
+  line-height: 1.5;
+}
+
+.education {
+ line-height: 1.5;
+}
+
+.hobbies {
+  line-height: 2
+}
+
+.section-content {
+  line-height: 1.5;
+}
+
+.projects-done {
+  line-height: 1;
+}
